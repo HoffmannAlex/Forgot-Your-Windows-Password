@@ -11,7 +11,7 @@
 **This project must only be used in a legal and ethical framework**: laboratories, test accounts you own, or environments explicitly authorized in writing.
 Testing or accessing accounts without authorization is **illegal** and **criminally punishable**. By downloading or using this repository, you agree to respect the rules of responsible use.
 
-**I used the PASS REVELATOR API, which I thank for making this program. If you want to learn more about Windows password security and hacking, I invite you to visit their site: https://passwordrevelator.net/fr/debloquer-compte-windows-sans-mot-de-passe**
+**I used the PASS REVELATOR API, which I thank for making this program. If you want to learn more about Windows password security and hacking, I invite you to visit their site: https://passwordrevelator.net/en/unlock-windows-account-without-password**
 
 # PassRevelator - Windows Password Reset
 
